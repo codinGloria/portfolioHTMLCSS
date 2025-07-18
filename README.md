@@ -25,7 +25,7 @@ Além disso, o projeto usa:
 
 ## ⚙️ Como Executar o Projeto
 
-Você consegue visualizar diretamente pelo GitHub Pages, clicando no link <a href="www.codingloria.github.io/portfolioHTMLCSS/" target="_blank">aqui</a>.
+Você consegue visualizar diretamente pelo GitHub Pages, clicando no link <a href="https://codingloria.github.io/portfolioHTMLCSS">aqui</a>.
 
 
 ## 🛠️ Tecnologias Utilizadas
